@@ -21,6 +21,7 @@ Stage 1 — Return Calculator (May 2026)
 ## CFA Concepts Applied
 - Holding Period Return (HPR)
 - Benchmark Comparison (SPY)
+- - Event-Driven Trading (Virus Outbreak Play)
 
 ## Portfolio Holdings
 | Ticker | Type | Purpose |
@@ -29,6 +30,11 @@ Stage 1 — Return Calculator (May 2026)
 | JPM | Stock | Large cap bank |
 | BAC | Stock | Large cap bank |
 | C | Stock | Bank turnaround story |
+| ZM   | Stock | Remote work - virus play |
+| ABT  | Stock | Diagnostics - virus play |
+| HON  | Stock | PPE manufacturer - virus play |
+| MRNA | Stock | Vaccine developer - virus play |
+| TMO  | Stock | Lab equipment - virus play |
 
 ## Project Roadmap
 - [x] Stage 1: Return Calculator (May 2026)
